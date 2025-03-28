@@ -106,6 +106,8 @@ fun ImageCard(
                 contentDescription = contentDescription,
                 modifier = Modifier.fillMaxSize(),
                 contentScale = ContentScale.Fit,
+
+
             )
         }
         Spacer( modifier = Modifier
